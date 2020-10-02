@@ -51,7 +51,7 @@ function WeatherContainer() {
   return (
     <section className="weather-container">
       <header className="weather-header">
-        <h3>El Appó</h3>
+        <h3>Weather App</h3>
         <div>
           <input
             placeholder="Zip Code"
