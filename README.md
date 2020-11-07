@@ -1,5 +1,4 @@
-[![my github stats](https://github-readme-stats.vercel.app/api?username=will-peterson&count_private=true)
-
+[![my github stats](https://github-readme-stats.vercel.app/api?username=will-peterson&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
