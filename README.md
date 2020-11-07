@@ -1,4 +1,4 @@
-[![my github stats](https://github-readme-stats.vercel.app/api?username=will-peterson)](https://github.com/anuraghazra/github-readme-stats)
+[![my github stats](https://github-readme-stats.vercel.app/api?username=will-peterson&count_private=true)
 
 
 
