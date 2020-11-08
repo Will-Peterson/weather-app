@@ -3,7 +3,7 @@ import "../Styles/Weather.css";
 import WeatherInfo from "./WeatherInfo";
 
 function WeatherContainer() {
-  const API_KEY = "eb7ed06915a8414a6745dc2741a2cd5a";
+  const API_KEY = process.env.REACT_APP_WEATHER_API_KEY;
   const [searchQuery, setSearchQuery] = useState("");
   const [weatherData, setWeatherData] = useState({
     temp: null,
@@ -17,7 +17,7 @@ function WeatherContainer() {
     let zipCode = event.target.value;
     let isValid = ValidateZipCode(zipCode);
     setSearchQuery(zipCode);
-    if (isValid || zipCode == "" || isValid.length === 5) {
+    if (isValid || zipCode === "" || isValid.length === 5) {
       setIsValidZipCode(true);
     } else {
       setIsValidZipCode(false);

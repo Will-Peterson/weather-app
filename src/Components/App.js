@@ -5,7 +5,7 @@ import WeatherContainer from './WeatherContainer';
 function App() {
   return (
     <section className="app-container">
-      <WeatherContainer></WeatherContainer>      
+      <WeatherContainer />
     </section>
   );
 }
