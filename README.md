@@ -1,6 +1,6 @@
 # Weather App
 
-This weather app was bootstraped with [Create React App](https://github.com/facebook/create-react-app). I am using [Open Weather Map](https://openweathermap.org)'s API.
+This weather app was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I am using [Open Weather Map](https://openweathermap.org)'s API.
 
 ## Built With
 * [React](https://reactjs.org)
