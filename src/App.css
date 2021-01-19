@@ -20,6 +20,7 @@ body {
 .warm {
   background-image: url("./images/warm-bg.jpg");
 }
+
 .cold {
   background-image: url("./images/cold-bg.jpg");
 }
@@ -76,6 +77,7 @@ main {
   text-align: center;
   text-shadow: 2px 2px rgba(50, 50, 70, 0.5);
 }
+
 .time {
   margin-bottom: 80px;
 }
